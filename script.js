@@ -26,7 +26,6 @@ document.addEventListener('DOMContentLoaded', () => {
             // Mostrar la animación en la parte trasera del mensaje
             if (index === messages.length - 1) {
                 setTimeout(() => {
-                    alert("¡Feliz día de San Valentín! ❤️");
                 }, 800);
             }
         });
